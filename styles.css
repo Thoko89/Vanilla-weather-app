@@ -1,5 +1,5 @@
 body {
-    background-color: #f9f7fd;
+    background-color:beige;
 }
 
 h1 {
@@ -19,6 +19,7 @@ h5 {
 ul li {
     list-style-type: none;
     color: #8c8b92;
+    
 }
 
 .container {
@@ -26,6 +27,7 @@ ul li {
         Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
     display: block;
     margin: 0 auto;
+    
 }
 
 .card {

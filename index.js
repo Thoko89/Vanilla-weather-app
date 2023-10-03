@@ -128,5 +128,5 @@ fahrenheitLink.addEventListener("click", displayFahrenheit);
 let celciousLink = document.querySelector("#celcious-link");
 celciousLink.addEventListener("click", displayCelcious);
 
-search("Istanbul");
+search("Germiston");
 displayForecast();
